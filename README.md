@@ -1,7 +1,3 @@
-# Episode 94 - Passwordless Auth
-
-Watch the [screencast](https://angularfirebase.com/lessons)
-
 ## Usage
 
 - `git clone`
